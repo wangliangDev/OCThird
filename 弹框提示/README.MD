@@ -29,7 +29,7 @@
 
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot2.png" style='height: 50%; width: 50%; object-fit: contain'/>
+<img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot2.png" style='height: 20%; width: 20%; object-fit: contain'/>
 </p>
 
  ![](https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot2.png)
