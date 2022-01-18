@@ -19,7 +19,7 @@
 
  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
  
-<p align="center">
+<p align="left">
 <img src="https://github.com/JonasGessner/JGProgressHUD/raw/master/Examples/Screenshots/Presentation.png" style='height: 50%; width: 50%; object-fit: contain'/>
 </p>
  
