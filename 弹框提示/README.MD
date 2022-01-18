@@ -19,6 +19,10 @@
 
  [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
  
+[![CocoaPods](https://img.shields.io/cocoapods/v/JGProgressHUD.svg)](https://cocoapods.org/pods/JGProgressHUD)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Carthage compatible](https://img.shields.io/badge/SwiftPM-Compatible-brightgreen)](https://swift.org/package-manager)
+ 
  ------
 
 [SCLAlertView](https://github.com/dogo/SCLAlertView)
