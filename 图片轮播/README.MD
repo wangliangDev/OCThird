@@ -24,3 +24,9 @@ iOS图片、文字轮播器
 ![image](https://github.com/12207480/TYCyclePagerView/blob/master/ScreenShot/TYCyclePagerView.gif)
 
 ------
+
+ ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
+ 
+ 简单易用的轮播控件, 基于UICollectionView实现
+ 
+ ![image](https://github.com/zzyspace/ZYBannerView/raw/master/ZYBannerViewDemo/Resource/demo.gif)
