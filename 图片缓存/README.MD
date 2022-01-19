@@ -1,2 +1,2 @@
 
-![SDWebImage](https://github.com/SDWebImage/SDWebImage)
+[SDWebImage](https://github.com/SDWebImage/SDWebImage)
