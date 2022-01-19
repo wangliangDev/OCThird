@@ -62,19 +62,19 @@
  
  
  <p align="left">
-<img src="https://github.com/Zirkfied/Library/blob/master/bar1.png" style='height: 20%; width:20%; object-fit: contain'/>
-<img src="https://github.com/Zirkfied/Library/blob/master/bar2.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/bar4.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/bar3.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/bar1.png" style='height: 20%; width:20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/bar2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/bar4.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/bar3.png" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/line1.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/line2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/line2.png" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/pie1.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie2.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie3.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie4.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/pie2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/pie3.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/pie4.png" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/wave1" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/wave2" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/HorizontalBarChart.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/HorizontalBarChart.gif" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/RadarChart.gif" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/radar1.png" style='height: 20%; width: 20%; object-fit: contain'/>
   <img src="https://github.com/Zirkfied/Library/blob/master/radar2.png" style='height: 20%; width: 20%; object-fit: contain'/>
@@ -82,3 +82,14 @@
   <img src="https://github.com/Zirkfied/Library/blob/master/radar4.png" style='height: 20%; width: 20%; object-fit: contain'/>
 
 </p>
+
+------
+
+[DVPieChart](https://github.com/FireMou/DVPieChart)
+iOS 饼状图 (带指引线)，各指引线数据不会重叠
+
+ <p align="left">
+<img src="https://ws1.sinaimg.cn/large/006tKfTcly1fpuxb8ebcij30ku12a74x.jpg" style='height: 20%; width: 20%; object-fit: contain'/>
+</p>
+
+
