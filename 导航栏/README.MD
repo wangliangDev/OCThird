@@ -6,7 +6,10 @@
 
 |拉钩App首页|新浪微博个人中心|qq空间|知乎日报|
 |:-:|:-:|:-:|:-:|
-|![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/拉钩App首页.gif)|![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/新浪微博个人中心.gif)|![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/qq空间.gif)|![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/知乎日报.gif)|
+|![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/拉钩App首页.gif)|
+![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/新浪微博个人中心.gif)|
+![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/qq空间.gif)|
+![](https://github.com/wangrui460/WRNavigationBar/raw/master/screenshots/知乎日报.gif)|
 
 |QQ我的资料页|蚂蚁森林|连续多个界面导航栏透明|移动导航栏|
 |:-:|:-:|:-:|:-:|
