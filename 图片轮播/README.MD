@@ -1,7 +1,8 @@
 
 ------
 
-[SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+## ☆☆☆ [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+
 
 iOS图片、文字轮播器
 
