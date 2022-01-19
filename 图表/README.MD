@@ -1,6 +1,8 @@
  ------
 [AAChartKit](https://github.com/AAChartModel/AAChartKit)
 
+An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, arearange, areasplinerange, columnrange, bubble, box plot, error bars, funnel, waterfall and polar chart types. 极其精美而又强大的跨平台数据可视化图表框架,支持柱状图、条形图、折…
+
 | Column Chart  | Column Range Chart  | Area Chart  |
 | :----:  | :----: | :----: |
 | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/ColumnChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
@@ -23,6 +25,7 @@
 
  ------
  [AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) 
+ 
  AxcAEKit系列拆分出来的一个贝塞尔曲线绘制工具，以科技风为主，动画为辅
  
  <p align="left">
@@ -86,6 +89,7 @@
 ------
 
 [DVPieChart](https://github.com/FireMou/DVPieChart)
+
 iOS 饼状图 (带指引线)，各指引线数据不会重叠
 
  <p align="left">
