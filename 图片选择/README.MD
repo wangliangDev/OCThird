@@ -24,3 +24,22 @@ HXWeiboPhotoPicker-高仿微博照片选择，使用的是PhotoKit框架来获�
 <img src="https://user-images.githubusercontent.com/18083149/32778166-d2397300-c973-11e7-9135-8ba11b24636e.gif" width="189" height="336">
 <img src="https://user-images.githubusercontent.com/18083149/33060991-55f9abf4-ced5-11e7-8b97-609813c0e937.gif" width="189" height="336">
 </p>
+
+------
+
+## [IJSPhotoSDK](https://github.com/wangjinshan/IJSPhotoSDK)
+
+ios多图选择,高仿微信发朋友圈的功能
+
+
+![](http://upload-images.jianshu.io/upload_images/2845360-c9e82e70ba22cf47.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-dfe6586d71e9af56.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-b58cd58f7f3d4749.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-84e41608527d6ff0.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-e8d134cca999dd7b.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-01d4de8f1e86c544.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2845360-6f63125cb3207256.gif?imageMogr2/auto-orient/strip%7CimageView2/2/w/200)
+![](http://upload-images.jianshu.io/upload_images/2845360-2415f1e7467133fb.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2845360-0b0d573e480ed8e3.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/2845360-82c00d5157e2442a.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
