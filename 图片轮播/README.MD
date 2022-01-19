@@ -44,7 +44,7 @@ iOS图片、文字轮播器
  
  | Column Chart  | Column Range Chart  | Area Chart  |
 | :----:  | :----: | :----: |
-| ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/ColumnChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
+| ![image1](https://upload-images.jianshu.io/upload_images/9163368-52a16007f7a2834c.gif?imageMogr2/auto-orient/strip) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
 ------
 
  ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
