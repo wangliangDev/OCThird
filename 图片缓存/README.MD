@@ -16,5 +16,7 @@ FLAnimatedImage is a performant animated GIF engine for iOS:
 
 It's a well-tested [component that powers all GIFs in Flipboard](http://engineering.flipboard.com/2014/05/animated-gif). To understand its behavior it comes with an interactive demo:
 
-![Flipboard playing multiple GIFs](https://github.com/Flipboard/FLAnimatedImage/raw/master/images/flanimatedimage-demo-player.gif)
+ <p align="left">
+<img src="https://github.com/Flipboard/FLAnimatedImage/raw/master/images/flanimatedimage-demo-player.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+</p>
 ------
