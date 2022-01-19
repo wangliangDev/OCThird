@@ -31,9 +31,9 @@ iOS图片、文字轮播器
 
 | 默认模式  | 卡片模式  | 跑马灯  |
 | :----:  | :----: | :----: |
-| ![image1](https://upload-images.jianshu.io/upload_images/9163368-e67656a2a5b0bb7f.gif?imageMogr2/auto-orient/strip) | 
-  ![image1](https://upload-images.jianshu.io/upload_images/9163368-4a16369427d1da6f.gif?imageMogr2/auto-orient/strip) | 
-  ![image1](https://upload-images.jianshu.io/upload_images/9163368-45ffbf5f23372828.gif?imageMogr2/auto-orient/strip) |
+| <img src="https://upload-images.jianshu.io/upload_images/9163368-e67656a2a5b0bb7f.gif?imageMogr2/auto-orient/strip" width="189" height="336">  | 
+  <img src="https://upload-images.jianshu.io/upload_images/9163368-4a16369427d1da6f.gif?imageMogr2/auto-orient/strip" width="189" height="336">  | 
+  <img src="https://upload-images.jianshu.io/upload_images/9163368-45ffbf5f23372828.gif?imageMogr2/auto-orient/strip" width="189" height="336"> |
   
 | 天猫精灵样式  | 卡片叠加样式  | 自定义pageControl  |
 | :----:  | :----: | :----: |
