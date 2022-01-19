@@ -25,3 +25,15 @@ iOS仿微信、今日头条等图片浏览器
 ![image](https://upload-images.jianshu.io/upload_images/1693073-5db630d194aaba91.gif)
 ![image](https://upload-images.jianshu.io/upload_images/1693073-c4b3c40b49899a2a.gif)
 ![image](https://upload-images.jianshu.io/upload_images/1693073-934ff5b95e03083c.gif)
+
+------
+
+## [HXPhotoBrowser](https://github.com/xuuhan/HXPhotoBrowser)
+
+![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/list.gif?raw=true)
+ ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/1.gif?raw=true)
+ ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/2.gif?raw=true)
+ ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/3.gif?raw=true)
+ ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/4.gif?raw=true)
+ 
+ ------
