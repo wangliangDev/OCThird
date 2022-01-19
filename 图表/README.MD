@@ -29,7 +29,8 @@
 ## AE瞄具类组件
  <p align="left">
 <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product.gif" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ ## AE进度类组件
+<img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif" style='height: 20%; width: 20%; object-fit: contain'/>
 </p>
 ## AE进度类组件
 ![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif)
