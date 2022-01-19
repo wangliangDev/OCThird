@@ -43,12 +43,12 @@
 | 顶掉父菜单         | ![顶掉父菜单.gif](https://upload-images.jianshu.io/upload_images/9163368-3aa3ac02faa59cb9.gif?imageMogr2/auto-orient/strip)
 
 ###特殊使用
-| 样式                | 作用   (默认值)                                 |
-|-----------------------|-----------------------------------------------------|
-| 作为tabbar使用    | ![tabbar.gif](https://upload-images.jianshu.io/upload_images/9163368-c3d9cb4339d6082a.gif?imageMogr2/auto-orient/strip) |
-| 淘宝首页效果           | ![taobao.gif](https://upload-images.jianshu.io/upload_images/9163368-ef84ae02f9d8bebf.gif?imageMogr2/auto-orient/strip)|
-| 美团外卖商家详情效果(子控制器多级联动)  |![meituan.gif](https://upload-images.jianshu.io/upload_images/9163368-caec9456b1383756.gif?imageMogr2/auto-orient/strip) |
-| 菜单标题跟随内容滑动         | <img src="https://upload-images.jianshu.io/upload_images/9163368-92ae59f2e362cbc3.gif?imageMogr2/auto-orient/strip" style='height: 20%; width: 20%; object-fit: contain'/>|
+| 样式                | 作用   (默认值)      |
+|-----------------------|-------------------|
+| 作为tabbar使用    | <img src="https://upload-images.jianshu.io/upload_images/9163368-c3d9cb4339d6082a.gif?imageMogr2/auto-orient/strip" width="189" height="336"> |
+| 淘宝首页效果       | <img src="https://upload-images.jianshu.io/upload_images/9163368-ef84ae02f9d8bebf.gif?imageMogr2/auto-orient/strip" width="189" height="336">|
+| 美团外卖商家详情效果(子控制器多级联动)  |<img src="https://upload-images.jianshu.io/upload_images/9163368-caec9456b1383756.gif?imageMogr2/auto-orient/strip" width="189" height="336"> |
+| 菜单标题跟随内容滑动  |<img src="https://upload-images.jianshu.io/upload_images/9163368-92ae59f2e362cbc3.gif?imageMogr2/auto-orient/strip" width="189" height="336">|
 
 
 
