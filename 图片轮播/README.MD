@@ -25,6 +25,24 @@ iOS图片、文字轮播器
 
 ------
 
+[WMZBanner](https://github.com/wwmz/WMZBanner)
+
+最好用的轻量级轮播图+卡片样式+自定义样式,链式编程语法(可实现各种样式的轮播图,大多需要的功能都有)(The best lightweight carousel + card style + custom style, chain programming syntax)
+
+| 默认模式  | 卡片模式  | 跑马灯  |
+| :----:  | :----: | :----: |
+| ![image1](https://upload-images.jianshu.io/upload_images/9163368-e67656a2a5b0bb7f.gif?imageMogr2/auto-orient/strip) | 
+  ![image1](https://upload-images.jianshu.io/upload_images/9163368-4a16369427d1da6f.gif?imageMogr2/auto-orient/strip) | 
+  ![image1](https://upload-images.jianshu.io/upload_images/9163368-45ffbf5f23372828.gif?imageMogr2/auto-orient/strip) |
+  
+| 天猫精灵样式  | 卡片叠加样式  | 自定义pageControl  |
+| :----:  | :----: | :----: |
+| ![image1](https://upload-images.jianshu.io/upload_images/9163368-52a16007f7a2834c.gif?imageMogr2/auto-orient/strip) | 
+  ![image1](https://upload-images.jianshu.io/upload_images/9163368-2e9934f2b819cf6f.gif?imageMogr2/auto-orient/strip) | 
+  ![image1](https://upload-images.jianshu.io/upload_images/9163368-ba69944fb01c4805.gif?imageMogr2/auto-orient/strip) |
+  
+------
+
  ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
  
  简单易用的轮播控件, 基于UICollectionView实现
