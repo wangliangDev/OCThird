@@ -62,23 +62,23 @@
  
  
  <p align="left">
-<img src="https://github.com/Zirkfied/Library/blob/master/bar1.png" style='height: 50%; width: 50%; object-fit: contain'/>
-<img src="https://github.com/Zirkfied/Library/blob/master/bar2.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/bar4.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/bar3.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/line1.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/line2.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/pie1.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie2.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie3.png" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/pie4.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/wave1" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/wave2" style='height: 50%; width: 50%; object-fit: contain'/>
- <img src="https://github.com/Zirkfied/Library/blob/master/HorizontalBarChart.gif" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/RadarChart.gif" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/radar1.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/radar2.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/radar3.png" style='height: 50%; width: 50%; object-fit: contain'/>
-  <img src="https://github.com/Zirkfied/Library/blob/master/radar4.png" style='height: 50%; width: 50%; object-fit: contain'/>
+<img src="https://github.com/Zirkfied/Library/blob/master/bar1.png" style='height: 20%; width:20%; object-fit: contain'/>
+<img src="https://github.com/Zirkfied/Library/blob/master/bar2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/bar4.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/bar3.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/line1.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/line2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/pie1.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie3.png" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie4.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/wave1" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/wave2" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/HorizontalBarChart.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/RadarChart.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar1.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar2.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar3.png" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar4.png" style='height: 20%; width: 20%; object-fit: contain'/>
 
 </p>
