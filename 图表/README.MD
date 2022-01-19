@@ -53,6 +53,32 @@
  
 </p>
 
- 
  ------
  
+ [ZFChart](https://github.com/Zirkfied/ZFChart) 
+ 
+ A simple chart library for iOS , contains barChart, lineChart, pieChart, waveChart, radarChart, cirqueChart. Thanks for your star if you like.
+模仿PNChart，Charts写的一个图表库，用法简单，暂时有柱状图，线状图，饼图，波浪图，雷达图，圆环图等类型，带动画效果，后续可能会更新新的类型
+ 
+ 
+ <p align="left">
+<img src="https://github.com/Zirkfied/Library/blob/master/bar1.png" style='height: 50%; width: 50%; object-fit: contain'/>
+<img src="https://github.com/Zirkfied/Library/blob/master/bar2.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/bar4.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/bar3.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/line1.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/line2.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/pie1.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie2.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie3.png" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/pie4.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/wave1" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/wave2" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/Zirkfied/Library/blob/master/HorizontalBarChart.gif" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/RadarChart.gif" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar1.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar2.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar3.png" style='height: 50%; width: 50%; object-fit: contain'/>
+  <img src="https://github.com/Zirkfied/Library/blob/master/radar4.png" style='height: 50%; width: 50%; object-fit: contain'/>
+
+</p>
