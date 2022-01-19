@@ -25,19 +25,34 @@
  [AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) 
  AxcAEKit系列拆分出来的一个贝塞尔曲线绘制工具，以科技风为主，动画为辅
  
- # 成品绘制示例
-## AE瞄具类组件
  <p align="left">
 <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product.gif" style='height: 20%; width: 20%; object-fit: contain'/>
- ## AE进度类组件
 <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_2.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_3.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_0.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_1.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_2.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_3.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_4.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_5.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_6.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_7.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_8.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_9.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_10.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+  <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_11.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_12.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_13.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_14.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_15.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_16.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_17.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_18.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/sample_19.gif" style='height: 20%; width: 20%; object-fit: contain'/>
+ 
 </p>
-## AE进度类组件
-![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif)
-## AE/网易云音乐- 鲸云音效 - 可视化圆形频谱组件
-![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_2.gif)
-## AE/网易云音乐- 鲸云音效 - 可视化圆形频谱组件2
-![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_3.gif)
+
  
  ------
  
