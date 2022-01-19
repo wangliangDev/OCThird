@@ -35,16 +35,10 @@ iOS图片、文字轮播器
   <img src="https://upload-images.jianshu.io/upload_images/9163368-4a16369427d1da6f.gif?imageMogr2/auto-orient/strip" width="189" height="336">  | 
   <img src="https://upload-images.jianshu.io/upload_images/9163368-45ffbf5f23372828.gif?imageMogr2/auto-orient/strip" width="189" height="336"> |
   
-| 天猫精灵样式  | 卡片叠加样式  | 自定义pageControl  |
+
+ | 天猫精灵样式  | 卡片叠加样式  | 自定义pageControl  |
 | :----:  | :----: | :----: |
-| ![image1](https://upload-images.jianshu.io/upload_images/9163368-52a16007f7a2834c.gif?imageMogr2/auto-orient/strip) | 
-  ![image1](https://upload-images.jianshu.io/upload_images/9163368-2e9934f2b819cf6f.gif?imageMogr2/auto-orient/strip) | 
-  ![image1](https://upload-images.jianshu.io/upload_images/9163368-ba69944fb01c4805.gif?imageMogr2/auto-orient/strip) |
-  
- 
- | Column Chart  | Column Range Chart  | Area Chart  |
-| :----:  | :----: | :----: |
-| ![image1](https://upload-images.jianshu.io/upload_images/9163368-52a16007f7a2834c.gif?imageMogr2/auto-orient/strip) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
+| ![image1](https://upload-images.jianshu.io/upload_images/9163368-52a16007f7a2834c.gif?imageMogr2/auto-orient/strip) | ![image1](https://upload-images.jianshu.io/upload_images/9163368-2e9934f2b819cf6f.gif?imageMogr2/auto-orient/strip) | ![image1](https://upload-images.jianshu.io/upload_images/9163368-ba69944fb01c4805.gif?imageMogr2/auto-orient/strip) |
 ------
 
  ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
