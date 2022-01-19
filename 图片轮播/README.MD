@@ -41,8 +41,10 @@ iOS图片、文字轮播器
   ![image1](https://upload-images.jianshu.io/upload_images/9163368-2e9934f2b819cf6f.gif?imageMogr2/auto-orient/strip) | 
   ![image1](https://upload-images.jianshu.io/upload_images/9163368-ba69944fb01c4805.gif?imageMogr2/auto-orient/strip) |
   
-  | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/ColumnChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
-  
+ 
+ | Column Chart  | Column Range Chart  | Area Chart  |
+| :----:  | :----: | :----: |
+| ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/ColumnChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/BarChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/loadHtmlCssJsDemo-master/master/AAChartKit/BeautyAppreciation/AreaChart.png) |
 ------
 
  ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
