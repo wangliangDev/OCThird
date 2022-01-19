@@ -15,4 +15,11 @@ iOS图片、文字轮播器
 滚动公告、广告
 
 ![](http://wx3.sinaimg.cn/mw690/72aba7efgy1fmdy022ow6g20bn08g0xn.gif)
+
+------
+
+[TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)
+
+![image](https://github.com/12207480/TYCyclePagerView/blob/master/ScreenShot/TYCyclePagerView.gif)
+
 ------
