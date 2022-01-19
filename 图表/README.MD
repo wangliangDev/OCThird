@@ -22,5 +22,8 @@
 | ![image1](https://raw.githubusercontent.com/AAChartModel/Gallery/master/AAChartKit/scatterChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/Gallery/master/AAChartKit/boxplotChart.png) | ![image1](https://raw.githubusercontent.com/AAChartModel/Gallery/master/AAChartKit/MirrorColumnChart.png) |
 
  ------
- [AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) ####AxcAEKit系列拆分出来的一个贝塞尔曲线绘制工具，以科技风为主，动画为辅
+ [AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) 
+ ####AxcAEKit系列拆分出来的一个贝塞尔曲线绘制工具，以科技风为主，动画为辅
+ 
+ ------
  
