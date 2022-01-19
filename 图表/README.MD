@@ -27,7 +27,10 @@
  
  # 成品绘制示例
 ## AE瞄具类组件
-![瞄具绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product.gif)
+ <p align="left">
+<img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product.gif" style='height: 50%; width: 50%; object-fit: contain'/>
+ <img src="https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif" style='height: 50%; width: 50%; object-fit: contain'/>
+</p>
 ## AE进度类组件
 ![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif)
 ## AE/网易云音乐- 鲸云音效 - 可视化圆形频谱组件
