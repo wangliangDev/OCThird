@@ -1,7 +1,7 @@
 
 ------
 
-## ☆☆☆ [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
+## ☆☆☆☆ [SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)
 
 
 iOS图片、文字轮播器
@@ -11,7 +11,7 @@ iOS图片、文字轮播器
 
 ------
 
-[RollingNotice](https://github.com/maltsugar/RollingNotice)
+## ☆☆☆☆ [RollingNotice](https://github.com/maltsugar/RollingNotice)
 
 滚动公告、广告
 
@@ -19,7 +19,7 @@ iOS图片、文字轮播器
 
 ------
 
-[TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)
+## ☆☆☆☆ [TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)
 
 ![image](https://github.com/12207480/TYCyclePagerView/blob/master/ScreenShot/TYCyclePagerView.gif)
 
