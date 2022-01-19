@@ -25,5 +25,15 @@
  [AxcDrawPath_Tool](https://github.com/axclogo/AxcDrawPath_Tool) 
  AxcAEKit系列拆分出来的一个贝塞尔曲线绘制工具，以科技风为主，动画为辅
  
+ # 成品绘制示例
+## AE瞄具类组件
+![瞄具绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product.gif)
+## AE进度类组件
+![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_1.gif)
+## AE/网易云音乐- 鲸云音效 - 可视化圆形频谱组件
+![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_2.gif)
+## AE/网易云音乐- 鲸云音效 - 可视化圆形频谱组件2
+![绘制](https://github.com/axclogo/AxcDrawPath_Tool/blob/master/sample_Img/product_3.gif)
+ 
  ------
  
