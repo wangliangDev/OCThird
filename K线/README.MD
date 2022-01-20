@@ -19,3 +19,6 @@
     
 *  ## [YKLineChartView](https://github.com/chenyk0317/YKLineChartView)
      iOS 股票的K线图 分时图 Kline
+     
+ *  ## [SwiftKline][(https://github.com/snail-z/SwiftKline)  
+    A simple stock chart framework.
