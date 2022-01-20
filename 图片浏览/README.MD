@@ -1,39 +1,10 @@
 
 ------
 
-## [GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser)
+*  ## [GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser)
+   iOS仿微信、今日头条等图片浏览器
+* ## [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)
+  微信 - 微博- 图片- 视频 浏览器
+* ## [HXPhotoBrowser](https://github.com/xuuhan/HXPhotoBrowser)
+  Photo browser that simulates progressive loading 可以模拟渐进式加载的图片浏览器
 
-iOS仿微信、今日头条等图片浏览器
-
- 1、仿微信
- ![wechat.gif](https://upload-images.jianshu.io/upload_images/1598505-5139f58eb648abeb.gif?imageMogr2/auto-orient/strip)
- 
- 2、今日头条
- ![toutiao.gif](https://upload-images.jianshu.io/upload_images/1598505-3273dff97637de1d.gif?imageMogr2/auto-orient/strip)
- 
- 3、简书
- ![jianshu.gif](https://upload-images.jianshu.io/upload_images/1598505-dbc0b13eb87ecd75.gif?imageMogr2/auto-orient/strip)
-
-------
-
- ## [KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)
- 
- 微信 - 微博- 图片- 视频 浏览器
-
-![image](https://upload-images.jianshu.io/upload_images/1693073-aa996299e74d04b8.gif)
-![image](https://upload-images.jianshu.io/upload_images/1693073-3c8632a1c5413564.gif)
-![image](https://upload-images.jianshu.io/upload_images/1693073-5db630d194aaba91.gif)
-![image](https://upload-images.jianshu.io/upload_images/1693073-c4b3c40b49899a2a.gif)
-![image](https://upload-images.jianshu.io/upload_images/1693073-934ff5b95e03083c.gif)
-
-------
-
-## [HXPhotoBrowser](https://github.com/xuuhan/HXPhotoBrowser)
-
-![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/list.gif?raw=true)
- ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/1.gif?raw=true)
- ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/2.gif?raw=true)
- ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/3.gif?raw=true)
- ![image](https://github.com/xuuhan/HXPhotoBrowser/blob/master/Example/4.gif?raw=true)
- 
- ------
