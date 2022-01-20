@@ -13,3 +13,6 @@
     
  *  ## [mercyxu/KLine](https://github.com/mercyxu/KLine)
     仿火币K线 全新升级 1.点击查看十字指标 2.拖拽增加震感 3.logo配置 4.判断新增or更新蜡烛图 5.新增深度图
+    
+  *  ## [YKLineChartView](https://github.com/chenyk0317/YKLineChartView)
+     iOS 股票的K线图 分时图 Kline
