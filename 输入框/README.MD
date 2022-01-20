@@ -15,5 +15,9 @@
    
  *  ## [WGDigitField](https://github.com/wgy6055/WGDigitField) 
     WGDigitField is a customizable digit input control for iOS. You can initialize a powerful digit input control with a very simple way.
+    
+ *  ## [ACFloatingTextfield](https://github.com/ErAbhishekChandani/ACFloatingTextfield)
+    It is a subclass of UITextfield to Provide the floating label and customisations
+    
    
  
