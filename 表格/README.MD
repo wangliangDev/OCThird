@@ -14,3 +14,6 @@
 * ## [ZZFLEX](https://github.com/tbl00c/ZZFLEX)
   一个完善的iOS敏捷开发框架，基于UIKit实现，包含常用控件的链式API拓展、一个数据驱动的列表框架、一个事件处理队列
   
+*  ## [JXPageListView](https://github.com/pujiaxin33/JXPageListView)
+   高仿闲鱼、转转、京东、中央天气预报等主流APP列表底部分页滚动视图
+  
