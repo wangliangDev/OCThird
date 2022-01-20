@@ -15,3 +15,6 @@
    
 * ## [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController)
   Implicitly make every view controller has its own navigation bar
+
+* ## [YPNavigationBarTransition](https://github.com/yiplee/YPNavigationBarTransition)
+  A Full functional UINavigationBar framework for making bar transition more natural! You don't need to call any UINavigationBar api, implementing YPNavigationBarConfigureStyle protocol for your view controller instead. （类似微信 iOS Navigation Bar 的切换方案）
