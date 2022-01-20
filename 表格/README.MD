@@ -22,3 +22,5 @@
      1、平时我们想动画 删除/移动/新增 某个cell时，往往需要自己计算变更前后的数据，进而得出相关的indexPath，最终拼凑 deleteRowsAtIndexPaths，insertRowsAtIndexPaths等方法实现。这里的问题在于一旦计算错误将会崩溃。且每次均需要自己计算并维护。通过HDListViewDiffer来变更数据则基本不必担心以上问题，你仅仅需要告知变化前后的数据源即可，内部会自动计算变更内容并拼凑动画函数。
 2、通过diff算法计算后，可以获得你增删改了哪些数据，然后可以通过 performBatchUpdates 来进行UI的更新，进而替代reloadData方法。好处就是diff后的更新是有针对性的更新，并且自带动画。而reloadData为全量更新，无动画
   
+* ## [SHSegmentedControlTableView](https://github.com/HatsuneMikuV/SHSegmentedControlTableView)
+  Both scroll horizontal and vertical for segment scrollview which have a same header. — 类似半糖、美丽说主页与QQ音乐歌曲列表布局效果，实现不同菜单的左右滑动切换，同时支持类似tableview的顶部工具栏悬停（既可以左右滑动，又可以上下滑动）。兼容下拉刷新，上拉加载更多
