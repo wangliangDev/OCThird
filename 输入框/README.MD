@@ -10,4 +10,7 @@
  * ## [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField)
    UITextField subclass with floating labels - inspired by Matt D. Smith's design
    
+ * ## [OTPTextField](https://github.com/kfit-dev/OTPTextField)
+   Fully customizable iOS UITextField for OTP/Secure code verification
+   
  
