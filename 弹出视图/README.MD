@@ -3,3 +3,6 @@
    
  *  ## [FTPopOverMenu](https://github.com/liufengting/FTPopOverMenu)
     FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect
+    
+ *   ## [FFPopup](https://github.com/JonyFang/FFPopup)
+     Presenting custom views as a popup in iOS.
