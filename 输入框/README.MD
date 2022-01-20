@@ -20,4 +20,5 @@
     It is a subclass of UITextfield to Provide the floating label and customisations
     
    
- 
+* ## [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders)
+  UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
