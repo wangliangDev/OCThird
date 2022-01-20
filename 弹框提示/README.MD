@@ -1,46 +1,15 @@
 
-
-
-------
-
- ##  [MBProgressHUD](https://github.com/jdg/MBProgressHUD/tree/master)
+ * ##  [MBProgressHUD](https://github.com/jdg/MBProgressHUD/tree/master)
+   MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD with some additional features.
  
- 
- 
- [![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/1-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/1.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/2-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/2.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/3-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/3.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/4-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/4.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/5-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/5.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/6-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/6.png)
-[![](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/7-small.png)](https://raw.githubusercontent.com/wiki/matej/MBProgressHUD/Screenshots/7.png)
- 
- ------
 
- ## [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+ * ## [SVProgressHUD](https://github.com/SVProgressHUD/SVProgressHUD)
+   A clean and lightweight progress HUD for your iOS and tvOS app.
  
- ------
+*  ## [SCLAlertView](https://github.com/dogo/SCLAlertView)
+   Animated Alert View written in Swift but ported to Objective-C, which can be used as a UIAlertView or UIAlertController replacement.
 
-## [SCLAlertView](https://github.com/dogo/SCLAlertView)
-
-<p align="left">
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot2.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot3.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot4.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot5.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot6.png" style='height: 20%; width: 20%; object-fit: contain'/>
- <img src="https://raw.githubusercontent.com/dogo/SCLAlertView/master/ScreenShots/ScreenShot7.png" style='height: 20%; width: 20%; object-fit: contain'/>
-</p>
+* ## [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
+  An elegant and simple progress HUD for iOS and tvOS. Supports Swift and Objective-C!
 
 
- ------
- 
-## [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
- 
- <p align="left">
-<img src="https://github.com/JonasGessner/JGProgressHUD/raw/master/Examples/Screenshots/Presentation.png" style='height: 50%; width: 50%; object-fit: contain'/>
-</p>
-
-------
- 
