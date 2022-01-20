@@ -22,3 +22,6 @@
    
 * ## [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders)
   UITextField and UITextView subclasses with placeholders that change into floating labels when the fields are populated with text.
+  
+* ## [AFViewShaker](https://github.com/ArtFeel/AFViewShaker)
+  AFViewShaker is simple as a brick utility for UIView shake animation.
