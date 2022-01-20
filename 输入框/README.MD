@@ -13,4 +13,7 @@
  * ## [OTPTextField](https://github.com/kfit-dev/OTPTextField)
    Fully customizable iOS UITextField for OTP/Secure code verification
    
+ *  ## [WGDigitField](https://github.com/wgy6055/WGDigitField) 
+    WGDigitField is a customizable digit input control for iOS. You can initialize a powerful digit input control with a very simple way.
+   
  
