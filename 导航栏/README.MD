@@ -12,3 +12,6 @@
    
 * ## [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)
    A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations. And you don't need to write any line of code for it, it all happens automatically. 
+   
+* ## [RTRootNavigationController](https://github.com/rickytan/RTRootNavigationController)
+  Implicitly make every view controller has its own navigation bar
