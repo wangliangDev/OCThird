@@ -15,5 +15,8 @@ a simple and usefull cycle pager view ,and auto scroll banner view(轮播图) ,i
 
 * ## [ZYBannerView](https://github.com/zzyspace/ZYBannerView)
  简单易用, 显示内容定制性强的可循环轮播控件. 可以实现类似淘宝商品详情中侧拉进入详情页的功能.
+
+* ## [WMZBanner](https://github.com/wwmz/WMZBanner);
+  最好用的轻量级轮播图+卡片样式+自定义样式,链式编程语法(可实现各种样式的轮播图,大多需要的功能都有)(The best lightweight carousel + card style + custom style, chain programming syntax)
  
 
