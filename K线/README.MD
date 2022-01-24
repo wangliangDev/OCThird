@@ -22,6 +22,6 @@
      
  * ## [SwiftKline](https://github.com/snail-z/SwiftKline)  
    A simple stock chart framework.
-* ## [SwiftKline](https://github.com/danielgindi/Charts)  
+* ## [Charts](https://github.com/danielgindi/Charts)  
   Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.
 
