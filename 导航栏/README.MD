@@ -18,3 +18,6 @@
 
 * ## [YPNavigationBarTransition](https://github.com/yiplee/YPNavigationBarTransition)
   A Full functional UINavigationBar framework for making bar transition more natural! You don't need to call any UINavigationBar api, implementing YPNavigationBarConfigureStyle protocol for your view controller instead. （类似微信 iOS Navigation Bar 的切换方案）
+
+* ## [HBDNavigationBar](https://github.com/listenzz/HBDNavigationBar)
+  A custom UINavigationBar for smooth switching between various states, including bar style, bar tint color, background image, background alpha, bar hidden, title text attributes, tint color, shadow hidden...
