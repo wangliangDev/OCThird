@@ -12,4 +12,6 @@
 * ## [JGProgressHUD](https://github.com/JonasGessner/JGProgressHUD)
   An elegant and simple progress HUD for iOS and tvOS. Supports Swift and Objective-C!
 
+* ## [STPopup](https://github.com/kevin-lyn/STPopup)
+  STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
 
