@@ -5,3 +5,6 @@
 
 * ## [UICountingLabel](https://github.com/dataxpress/UICountingLabel)
 * Adds animated counting support to UILabel
+
+* ## [Animations](https://github.com/YouXianMing/Animations)
+  The Animation Collection.
