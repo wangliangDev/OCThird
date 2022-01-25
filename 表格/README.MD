@@ -28,3 +28,7 @@
 
 * ## [LTScrollView](https://github.com/gltwy/LTScrollView)
   ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案
+  
+  * ## [GKPageScrollView](https://github.com/QuintGao/GKPageScrollView)
+    iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果
+  
