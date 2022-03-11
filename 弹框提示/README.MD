@@ -14,4 +14,10 @@
 
 * ## [STPopup](https://github.com/kevin-lyn/STPopup)
   STPopup provides STPopupController, which works just like UINavigationController in popup style, for both iPhone and iPad. It's written in Objective-C and compatible with Swift.
+  
+* ## [TYAlertController](https://github.com/12207480/TYAlertController)
+  Powerful, Easy to use alert view or popup view on controller and window, support blur effects,custom view and animation,for objective-c,support iphone, ipad
+  
+* ## [SPAlertController](https://github.com/SPStore/SPAlertController)
+  提醒对话框，风格和微信原生几乎零误差
 
